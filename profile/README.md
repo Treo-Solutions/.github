@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Treo-Solutions/.github/main/profile/logo.png" alt="Treo Solutions" width="260">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treo-Solutions/.github/main/profile/banner-dark.png">
+  <img src="https://raw.githubusercontent.com/Treo-Solutions/.github/main/profile/banner-light.png" alt="Treo Solutions" width="100%">
+</picture>
 
 # Treo Solutions
 
