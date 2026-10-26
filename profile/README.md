@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="Treo Solutions" width="260">
+  <img src="https://raw.githubusercontent.com/Treo-Solutions/.github/main/profile/logo.png" alt="Treo Solutions" width="260">
 </p>
 
 # Treo Solutions
